@@ -1,4 +1,4 @@
-package com.genture.message_transfer.util;
+package com.genture.middle_platform.util;
 
 /**
  * Created by Administrator on 2017/9/4.
